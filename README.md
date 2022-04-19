@@ -22,8 +22,8 @@ Link to GitHub Deployment: **[PacMany](https://ianzgray.github.io/PacMany).**
 
 - Add an stop button
 - Add additional image animations/characters
-- Add a background image
-- Add a packman deletion onClick event. 
+- Add a button that changes the background image
+- Add a packman deletion onClick event 
 
 ### License
 

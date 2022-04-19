@@ -1,0 +1,19 @@
+.background {
+    background-image: url(./abstract-colorful-design-4k.jpg);
+    background-size: cover;
+}
+
+.button {
+    border-radius: .5vw;
+    border-color: brown;
+    background-color: maroon;
+    color: white;
+    font-weight: bold;
+    font-size: 1vw;
+    position: relative;
+    /* left: 1vw;
+    top: 1vw; */
+    width: 8vw;
+    height: 4vh;
+    margin: .5vw;
+  }
