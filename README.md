@@ -33,3 +33,7 @@ MIT License
 
 Ian Gray.
 Student at MIT - Full Stack Development with MERN
+
+### Credits
+
+Background image from [WallpapersMug](https://wallpapersmug.com/)

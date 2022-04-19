@@ -16,4 +16,5 @@
     width: 8vw;
     height: 4vh;
     margin: .5vw;
+    box-shadow: .3vw .3vw .4vw rgba(0, 0, 0, .75);
   }
