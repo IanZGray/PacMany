@@ -28,7 +28,8 @@
     color: white;
     /* color: rgb(41, 3, 41); */
     font-weight: bold;
-    font-size: 1vw;
+    font-family: bodoni;
+    font-size: 1.5vw;
     position: relative;
     margin-left: 1vw;
     top: 1vw;
@@ -43,6 +44,6 @@
 .button:hover {
     /* background-color: rgb(41, 3, 41); */
     background-color: rgba(0, 0, 0, 0);
-    color: rgb(41, 3, 41);
+    /* color: rgb(41, 3, 41); */
     /* color: white; */
 }
