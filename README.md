@@ -2,7 +2,7 @@
 
 ## App Information
 
-### Title: Pac Many
+### Title: Pac-Many
 
 ### Description
 
